@@ -141,7 +141,7 @@ information loss, incorrect recording, and limited visibility.
 The current process should therefore be validated with relevant stakeholders
 before defining the future-state process or solution.
 
-## 2. As-Is Process Diagram
+## 9. As-Is Process Diagram
 
 The following swimlane diagram represents the current-state
 order-management process and the responsibilities of the main
