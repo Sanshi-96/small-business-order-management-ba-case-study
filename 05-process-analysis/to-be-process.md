@@ -188,7 +188,7 @@ The To-Be process does not define the detailed technical
 implementation. It describes the desired business process and
 capabilities that the future solution should support.
 
-## 2. To-Be Process Diagram
+## 12. To-Be Process Diagram
 
 The following swimlane diagram represents the proposed future-state
 order-management process and the responsibilities of the main
